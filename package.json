@@ -28,6 +28,6 @@
     "jquery": "*"
   },
   "dependencies": {
-    "slick-carousel": "^1.6.0"
+    "slick-carousel": "kenwheeler/slick"
   }
 }
